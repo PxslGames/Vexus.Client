@@ -5,4 +5,4 @@ A Mod-Menu for Gorilla Tag
 You can see all of the mods in the `VexusClientMods.txt` file.
 
 ## DISCLAIMER
-The menu is obfuscated, thats why the dll is so big.
+I don't care if you use dnspy on my dll, just please don't take my code without asking :)
