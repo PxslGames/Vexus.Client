@@ -1,4 +1,4 @@
-# Main Mods
+# 📂 Main Mods
 - **Config.**: Opens the Settings Page of the menu.
 - **Important.**: Opens the Important Mods Page of the menu.
 - **Room.**: Opens the Room Mods Page of the menu.
@@ -10,17 +10,20 @@
 - **Overpowered.**: Opens the Overpowered Mods Page of the menu.
 - **Experimental.**: Opens the Experimental Mods Page of the menu.
 
-# Settings
+# ⚙️ Settings
 - **Return to Main.**: Returns to the Main Page for the menu.
 - **Right Hand Menu**: Puts the menu on your right hand.
+- **No Gravity Menu**: Disables the menu's gravity.
 - **Toggle Notifications**: Toggles the notifications.
 - **Clear Notifications**: Clears the Notifications.
 - **Toggle FPS Counter**: Toggles the FPS counter.
 - **Toggle Disconnect Button**: Toggles the disconnect button.
+- **Toggle Button Sounds [SS]**: Toggles server sided button sounds.
+- **Toggle Button Vibration**: Toggles controller vibration when buttons are pressed.
 - **Mod Count**: Tells you how many mods are on the menu.
 - **Change Menu Theme**: Changes the Menu Theme.
 
-# Important
+# ⚠️ Important
 - **Return to Main.**: Returns to the Main Page for the menu.
 - **Quit**: Quits Gorilla Tag.
 - **Restart**: Restarts Gorilla Tag.
@@ -29,8 +32,9 @@
 - **Anti-Admin**: Makes sure that you aren't in a lobby with an Admin.
 - **Disconnect [P]**: Disconnects you when you press your primary button.
 - **Flush RPCs**: Flushes your RPCs.
+- **No Finger Movement**: Disables the movement of your fingers.
 
-# Room
+# 🏠 Room
 - **Return to Main.**: Returns to the main page of the menu.
 - **Disconnect**: Disconnects you from the lobby.
 - **Join Random Code**: Attempts to join a random code.
@@ -43,7 +47,7 @@
 - **Admin Detector**: Checks if there is an ADMIN in your lobby.
 - **Finger Painter Detector**: Checks if there is a FINGER PAINTER in your lobby.
 
-# Movement
+# 🚀 Movement
 - **Return to Main.**: Returns to the main page of the menu.
 - **Platforms [G]**: Allows you to walk on air.
 - **Speed Boost**: Makes your speed faster.
@@ -63,7 +67,7 @@
 - **Low Gravity**: Literally just makes you have low gravity.
 - **Low Gravity [G]**: Literally just makes you have low gravity when holding [GRIP].
 
-# Rig
+# 🦴 Rig
 - **Return to Main.**: Returns to the main page of the menu.
 - **Head Spin X**: Makes your head spin on the X Axis.
 - **Head Spin Y**: Makes your head spin on the Y Axis.
@@ -84,7 +88,7 @@
 - **Reverse Spin [P]**: Allows you to make your rig spin the other way when holding [A/X].
 - **Strobe Rig [S]**: Makes your rig flash loads when holding [B/Y].
 
-# Fun
+# 🥳 Fun
 - **Return to Main.**: Returns to the main page of the menu.
 - **Ride Bug**: Allows you to ride the bug.
 - **Find Bug**: Teleports you to the bug.
@@ -102,18 +106,19 @@
 - **Bat Gun**: Allows you to teleport the bat to wherever your hand desires.
 - **Leaderboard Mixer [CS]**: Mixes up and duplicates everyone's names.
 - **Stress Ball**: Gives you a client-sided stress ball.
+- **Leave Party**: Force leaves your current party.
 
-# Visual
+# 👁️ Visual
 - **Return to Main.**: Returns to the main page of the menu.
 - **Change Time**: Changes the time, for you only.
 - **First-Person-Camera**: Enables a First-Person-Camera.
 
-# Spam
+# 🗑️ Spam
 - **Return to Main.**: Returns to the main page of the menu.
 - **Sound Spam.**: Opens the Sound Spam Mods Page of the menu.
 - **Visual Spam.**: Opens the Visual Spam Mods Page of the menu.
 
-# Sound Spam
+# 🔊 Sound Spam
 - **Return to Spam.**: Returns to the Spam Page of the menu.
 - **Spam Random Sound [G]**: Spams [RANDOM] sounds when you hold [GRIP].
 - **Spam Wood Sound [G]**: Spams [WOOD] sound when you hold [GRIP].
@@ -121,19 +126,19 @@
 - **Spam Keyboard Sound [G]**: Spams [KEYBOARD] sound when you hold [GRIP].
 - **Spam Crystal Sound [G]**: Spams [CRYSTAL] sound when you hold [GRIP].
 
-# Visual Spam
+# 🌀 Visual Spam
 - **Return to Spam.**: Returns to the Spam Page of the menu.
 - **Splash Hands [G]**: Makes water fly out of your hands when holding [GRIP].
 - **Spit [G]**: Makes water fly out of your mouth when holding [GRIP].
 - **Water Halo [G]**: Splashes water around your head when holding [GRIP].
 - **Water Gun [G]**: Splashes water wherever your hand desires.
 
-# Overpowered
+# ⚡ Overpowered
 - **Return to Main.**: Returns to the main page of the menu.
 - **Anti-Ban**: Significantly lowers your chances of getting banned.
 - **Master Check**: Checks if you are Master Client.
-
-# Experimental
+  
+# 🧪 Experimental
 - **Return to Main.**: Returns to the main page of the menu.
 - **DISCLAIMER!**: !!! DISCLAIMER - EVERYTHING IN THIS CATEGORY MAY BE DETECTED, AND/OR NOT WORKING! USE AT YOUR OWN RISK! !!!
 - **Reconnect**: Disconnects you from the lobby and then reconnects you.
