@@ -37,6 +37,7 @@
 - **Unlock Competitive Queue** - Unlocks the Competitive Queue.
 - **Disable Quit Box** - Disables the Quit Box under the map.
 - **Disable Quit Box [T]** - Disables the Quit Box under the map when holding [TRIGGER].
+- **FPS Boost** - Gives you a big FPS boost when active.
 
 # 🏠 Room
 - **Return to Main.** - Returns to the main page of the menu.
@@ -54,6 +55,7 @@
 # 🚀 Movement
 - **Return to Main.** - Returns to the main page of the menu.
 - **Platforms [G]** - Allows you to walk on air.
+- **Platforms [T]** - Allows you to walk on air when holding [TRIGGER].
 - **Speed Boost** - Makes your speed faster.
 - **Speed Boost [G]** - Makes your speed faster when holding [GRIP].
 - **Fly [P]** - Allows you to fly when holding [A/X].
@@ -112,13 +114,14 @@
 - **Leaderboard Mixer [CS]** - Mixes up and duplicates everyone's names.
 - **Stress Ball** - Gives you a client-sided stress ball.
 - **Leave Party** - Force leaves your current party.
+- **CHAOS MODE!** - Enables every mod on the menu!
 
 # 👁️ Visual
 - **Return to Main.** - Returns to the main page of the menu.
 - **Change Time** - Changes the time, for you only.
 - **First-Person-Camera** - Enables a First-Person-Camera.
-- **FPS Boost** - Gives you a big FPS boost when active.
 - **Fullbright** - Makes everything have increased brightness.
+- **Tracers** - Gives you lines from your hand showing where all players are.
 
 # 🗑️ Spam
 - **Return to Main.** - Returns to the main page of the menu.
