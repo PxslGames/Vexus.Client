@@ -103,6 +103,7 @@
 - **Bug Halo** - Makes the bug move in a circle around your head.
 - **Bug Orbit** - Makes you move in a circle around the bug.
 - **Bug Hat** - Makes the bug turn into a hat.
+- **Become Bug** - Makes you become the bug.
 - **Bug Gun** - Allows you to teleport the bug to wherever your hand desires.
 - **Ride Bat** - Allows you to ride the bat.
 - **Find Bat** - Teleports you to the bat.
@@ -110,6 +111,7 @@
 - **Bat Halo** - Makes the bat move in a circle around your head.
 - **Bat Orbit** - Makes you move in a circle around the bat.
 - **Bat Hat** - Makes the bat turn into a hat.
+- **Become Bat** - Makes you become the bat.
 - **Bat Gun** - Allows you to teleport the bat to wherever your hand desires.
 - **Leaderboard Mixer [CS]** - Mixes up and duplicates everyone's names.
 - **Stress Ball** - Gives you a client-sided stress ball.
