@@ -1,5 +1,7 @@
 # Vexus Client
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PxslGames/Vexus.Client/total)
+
 A feature-rich mod menu for *Gorilla Tag*, available **FOR FREE** with over **100 advanced features** to enhance your gameplay experience.
 
 **Important:**  
